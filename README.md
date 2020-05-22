@@ -4,6 +4,6 @@ A registration form with username, email, password, phone number and submit it t
 
 HOW TO RUN THIS IN YOUR COMPUTER
 1.Extract the files inside C:\xampp\htdocs
-2.Run XAMPP server and stap Apache and MySQL
+2.Run XAMPP server and start Apache and MySQL
 3.Open myphpadmin and import taken.sql
 4.Open http://localhost/register.php
